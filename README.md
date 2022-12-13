@@ -12,3 +12,4 @@ Here, I will explain step by step how the project was done:
   4. After that and finally, we create the dashboard to interact and do data-based conclusions for marketing campaings or internal decisions
     
       
+![Final dashboard](https://user-images.githubusercontent.com/120477092/207370917-375d0f10-ce53-407d-8601-12720ef4712a.PNG)
