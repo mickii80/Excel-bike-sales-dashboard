@@ -9,7 +9,7 @@ Here, I will explain step by step how the project was done:
       1. We create the pivot table about the Avg Income Depending on purchase and gender
       2. We create the pivot table about the Costumer Commute distance (to verify if it affects buyers)
       3. We create the pivot table about the purchases based on age
-  4. After that and finally, we create the dashboard to interact and do data-based conclusions for marketing campaings or internal decisions
+  4. After that and finally, we create the dashboard to interact and help data-based decisions for marketing campaings or internal decisions
     
       
 ![Final dashboard](https://user-images.githubusercontent.com/120477092/207370917-375d0f10-ce53-407d-8601-12720ef4712a.PNG)
